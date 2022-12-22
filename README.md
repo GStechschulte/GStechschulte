@@ -10,3 +10,5 @@ I am a System Engineer using methods in Bayesian statistics and data engineering
 ### Contributions / Development
 
 JAX implementation of the Multinomial Distribution in Aesara...
+
+[SANElib](https://github.com/SANElibDevTeam/SANElib) - a library for machine learning in SQL using Jinja templating
