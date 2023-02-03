@@ -1,7 +1,5 @@
 Hey, I'm Gabriel 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/__gsteck__)](https://twitter.com/__gsteck__)
-
 Using Bayesian methods and data engineering to solve supply chain related problems. My interests include probabilistic programming, databases, and microeconomics.
 
 ### Repositories
