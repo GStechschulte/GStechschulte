@@ -1,3 +1,3 @@
 Hey, I'm Gabriel 👋
 
-My interests include probabilistic programming, databases, and microeconomics. 
+My interests and work includes probabilistic programming, databases, and microeconomics. 
